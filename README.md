@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Mostly private repos. Working on making some public soon.
 <!--
 **DonFungible/DonFungible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

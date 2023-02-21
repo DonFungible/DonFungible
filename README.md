@@ -4,6 +4,6 @@
 
 Working on:
 - Account abstraction
-- NFT marketplace infrastructure
+- NFT marketplaces
 
 <div align="left"><img src="https://media.giphy.com/media/N23cG6apipMmQ/giphy.gif" width="250" height="250"/>

@@ -18,18 +18,18 @@
 
 ---
 
-### ◇ &nbsp;Work
+### ◇ &nbsp;Work Experience
 
 <p align="">
-  <img src="https://nueva.tech/favicons/apple-touch-icon.png" alt="Nueva" height="52" />
+  <a href="https://nueva.tech"><img src="https://nueva.tech/favicons/apple-touch-icon.png" alt="Nueva" height="52" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.datafdn.org/apple-icon.png?apple-icon.1qpcr0w_dxyye.png" alt="The DATA Foundation" height="52" />
+  <a href="https://www.datafdn.org"><img src="https://www.datafdn.org/apple-icon.png?apple-icon.1qpcr0w_dxyye.png" alt="The DATA Foundation" height="52" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.licdn.com/dms/image/v2/C560BAQHlOX2KNGe-sg/company-logo_200_200/company-logo_200_200/0/1630646661737/airflowaero_logo?e=2147483647&v=beta&t=sqBw0vqvZGDV4jFG_VoY1CYpvGlVJ_ykAZP8Sbpz4uo" alt="Airflow" height="52" />
+  <a href="https://electra.aero/news/electra-acquires-airflow-to-create-a-leader-in-advanced-air-mobility"><img src="https://media.licdn.com/dms/image/v2/C560BAQHlOX2KNGe-sg/company-logo_200_200/company-logo_200_200/0/1630646661737/airflowaero_logo?e=2147483647&v=beta&t=sqBw0vqvZGDV4jFG_VoY1CYpvGlVJ_ykAZP8Sbpz4uo" alt="Airflow" height="52" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.logo.dev/airbus.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=200&format=png" alt="Airbus" height="52" />
+  <a href="https://www.airbus.com"><img src="https://img.logo.dev/airbus.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=200&format=png" alt="Airbus" height="52" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.logo.dev/northropgrumman.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=200&format=png" alt="Northrop Grumman" height="52" />
+  <a href="https://www.northropgrumman.com"><img src="https://img.logo.dev/northropgrumman.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=200&format=png" alt="Northrop Grumman" height="52" /></a>
 </p>
 
 <p align="">
@@ -40,6 +40,7 @@
 ### ◇ &nbsp;Stuff I'm currently working on
 
 - **[Syncd](https://syncdcollect.app):** Mobile app for TCG collectors.
+- **Generative UI**
 
 ---
 

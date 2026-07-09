@@ -5,7 +5,7 @@
 <h1 align="center">Don</h1>
 
 <p>
-    I'm a software engineer currently working on consumer apps and generative UI. I run <a href="https://nueva.tech">Nueva</a>, a software agency based in California. In my previous life, I worked on autopilot systems and flight simulations for electric aircrafts.
+    I'm a full-stack developer currently working on consumer apps and generative UI. I run <a href="https://nueva.tech">Nueva</a>, a software agency based in California. In my previous life, I worked on autopilot systems and flight simulations for electric aircrafts.
 </p>
 
 <p align="center">

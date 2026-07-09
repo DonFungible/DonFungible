@@ -5,7 +5,7 @@
     I'm a full-stack developer currently working on consumer apps and generative UI. I run <a href="https://nueva.tech">Nueva</a>, a software agency based in California. In my previous life, I worked on autopilot systems and flight simulations for electric aircrafts.
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/TypeScript-2f2f2f?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-2f2f2f?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-2f2f2f?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
@@ -20,7 +20,7 @@
 
 ### ◇ &nbsp;Work
 
-<p align="center">
+<p align="">
   <img src="https://nueva.tech/favicons/apple-touch-icon.png" alt="Nueva" height="52" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.datafdn.org/apple-icon.png?apple-icon.1qpcr0w_dxyye.png" alt="The DATA Foundation" height="52" />
@@ -32,7 +32,7 @@
   <img src="https://img.logo.dev/northropgrumman.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ&size=200&format=png" alt="Northrop Grumman" height="52" />
 </p>
 
-<p align="center">
+<p align="">
   <sub><b>Nueva</b> &nbsp;·&nbsp; <b>The DATA Foundation</b> &nbsp;·&nbsp; <b>Airflow</b> &nbsp;·&nbsp; <b>Airbus</b> &nbsp;·&nbsp; <b>Northrop Grumman</b></sub>
 </p>
 

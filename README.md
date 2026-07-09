@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="assets/banner.png" alt="" width="100%" />
-</p>
+<h1 align="">Don Fung</h1>
 
-<h1 align="center">Don</h1>
 
 <p>
     I'm a full-stack developer currently working on consumer apps and generative UI. I run <a href="https://nueva.tech">Nueva</a>, a software agency based in California. In my previous life, I worked on autopilot systems and flight simulations for electric aircrafts.
@@ -48,4 +45,8 @@
 
 <p align="center">
   <a href="mailto:don@don.dev">don@don.dev</a>
+</p>
+
+<p align="center">
+  <img src="assets/banner.png" alt="" width="100%" />
 </p>

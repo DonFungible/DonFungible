@@ -4,8 +4,8 @@
 
 <h1 align="center">Don</h1>
 
-<p align="center">
-    I'm a software engineer with a current focus on consumer apps and generative UI. I run <a href="https://nueva.tech">Nueva</a>, a software agency based in California. In my previous life, I worked on autopilot systems and flight simulations for electric aircrafts.   
+<p>
+    I'm a software engineer with a current focus on consumer apps and generative UI. I run <a href="https://nueva.tech">Nueva</a>, a software agency based in California. In my previous life, I worked on autopilot systems and flight simulations for electric aircrafts.
 </p>
 
 <p align="center">

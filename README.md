@@ -18,7 +18,7 @@
 
 ---
 
-### ◇ &nbsp;Work Experience
+### Work Experience
 
 <p align="">
   <a href="https://nueva.tech"><img src="https://nueva.tech/favicons/apple-touch-icon.png" alt="Nueva" height="52" /></a>
@@ -37,7 +37,7 @@
 </p>
 
 ---
-### ◇ &nbsp;Stuff I'm currently working on
+### Currently working on
 
 - **[Syncd](https://syncdcollect.app):** Mobile app for TCG collectors.
 - [Generative UI](https://github.com/DonFungible/awesome-generative-ui)

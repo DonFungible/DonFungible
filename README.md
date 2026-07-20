@@ -17,6 +17,12 @@
 </p>
 
 ---
+### Currently Working On
+
+- **[Syncd](https://syncdcollect.app):** Mobile app for TCG collectors.
+- [Generative UI](https://github.com/DonFungible/awesome-generative-ui)
+
+---
 
 ### Work Experience
 
@@ -36,11 +42,6 @@
   <sub><b>Nueva</b> &nbsp;·&nbsp; <b>The DATA Foundation</b> &nbsp;·&nbsp; <b>Airflow</b> &nbsp;·&nbsp; <b>Airbus</b> &nbsp;·&nbsp; <b>Northrop Grumman</b></sub>
 </p>
 
----
-### Currently working on
-
-- **[Syncd](https://syncdcollect.app):** Mobile app for TCG collectors.
-- [Generative UI](https://github.com/DonFungible/awesome-generative-ui)
 
 ---
 

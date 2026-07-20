@@ -40,7 +40,7 @@
 ### ◇ &nbsp;Stuff I'm currently working on
 
 - **[Syncd](https://syncdcollect.app):** Mobile app for TCG collectors.
-- **Generative UI**
+- **[Generative UI](https://github.com/DonFungible/awesome-generative-ui**
 
 ---
 

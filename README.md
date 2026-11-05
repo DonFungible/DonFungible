@@ -20,7 +20,8 @@
 ### Currently Working On
 
 - **[Syncd](https://syncdcollect.app):** Mobile app for TCG collectors.
-- [Generative UI](https://github.com/DonFungible/awesome-generative-ui)
+- Learning about [Generative UI](https://github.com/DonFungible/awesome-generative-ui)
+- Having fun DJing with [dj-mcp](https://github.com/DonFungible/dj-mcp)
 
 ---
 
